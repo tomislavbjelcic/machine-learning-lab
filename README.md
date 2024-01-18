@@ -1,2 +1,1 @@
-# machine-learning-lab
-Machine Learning 1 course laboratory exercises.
+https://www.fer.unizg.hr/predmet/struce1
